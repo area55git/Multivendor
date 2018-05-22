@@ -1,4 +1,4 @@
-# Multi Vendor 
+<p align="center"><img src="https://s31.postimg.cc/51dxa7op7/LOGO_MULTIVENDOR_Ver_700px.png"></p>
 
 Hey there, Multi Vendor is neither an extension or module.  
 Multi Vendor is a simple stand alone Open source script that can be used for ecommerce purposes.
